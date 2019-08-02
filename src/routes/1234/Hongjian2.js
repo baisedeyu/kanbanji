@@ -10,7 +10,7 @@ class Hongjian2 extends React.Component {
     console.log(this.props)
     return (
       <div>
-        <Button onClick={this.huiqu}>回去</Button>
+        <Button onClick={this.huiqu}>回去ba</Button>
       </div>
     );
   }
