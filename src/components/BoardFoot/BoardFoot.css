@@ -1,0 +1,54 @@
+/*Footer*/
+
+.Foot{
+  left:0%;
+  position: relative;
+  width: 100%;
+  height: 4%;
+  background-color: #2d1818;
+  border-top: 0.43vh solid #ffffff;
+}
+.spans
+{
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bolder;
+  font-size:1.4vw;
+  color: #fff737;
+  z-index: 1001;
+}
+
+.lastFont{
+  position: relative;
+  color: white;
+  font-size: 1.4vw;
+  float: right;
+  right: 5%;
+  top: -200%;
+}
+.div1{
+  height:100%;
+  width: 60%;
+  position: absolute;
+  left: 15%;
+
+}
+.div2{
+  height:100%;
+  width: 18%;
+  float: right;
+}
+.marquee{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  font-size: 1.8vw;
+  top: 10%;
+  color: white;
+}
+
+.font1{
+  position: absolute;
+  color: #eeea21;
+}
+

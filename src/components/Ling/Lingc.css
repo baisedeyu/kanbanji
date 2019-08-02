@@ -1,0 +1,27 @@
+.rowcolor1{
+  color: #ffff00;
+  font-size: medium;
+  text-align:center;
+}
+
+.rowcolor2
+{color: white;
+  background-color: black;
+  padding: 20px;
+}
+
+/*:global(td){*/
+  /*padding: 5px !important;*/
+/*}*/
+
+
+
+/*td{*/
+/*padding: 5px !important;*/
+/*}*/
+
+
+/*td{*/
+  /*padding: 0 !important;*/
+  /*font-size: x-large !important;*/
+/*}*/

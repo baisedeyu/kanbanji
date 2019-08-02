@@ -1,0 +1,29 @@
+.table1 {
+  border: 1px solid gray;
+  border-collapse:collapse;
+  padding-top: 20px;
+  padding-left: 20px;
+  width:100%;
+}
+
+.table2 {
+  border: 1px solid gray;
+  border-collapse:collapse;
+  margin-top:10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width:100%;
+}
+
+.table1th{
+  color: white;
+  font-size: 17px;
+  padding:5px;
+  text-align: center;
+}
+
+.table1td{
+  color: yellow;
+  font-size: 19px;
+  text-align: center;
+}

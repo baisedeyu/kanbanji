@@ -1,0 +1,17 @@
+table{
+  color:yellow;
+  border-spacing: 0;
+  width: 100%;
+  height: 100%;
+}
+td{
+  text-align:center;
+  border: 1.2px solid #f7f7f7;
+
+}
+body{
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}

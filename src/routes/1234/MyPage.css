@@ -1,0 +1,92 @@
+
+.table1 {
+  border: 1px solid gray;
+  border-collapse:collapse;
+}
+
+.table2{
+  margin-right: 20px;
+  border: 1px solid gray;
+  border-collapse:collapse;
+}
+
+.th1 {
+  padding: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  width: auto;
+  font-size:1.1em;
+  color:#ffffff;
+  text-align:center}
+
+.td1 {
+  color:yellow;
+  font-size:1.1em;
+  padding-top:5px;
+  padding-bottom:4px;
+  text-align:center}
+
+.td2 {
+  color:yellow;
+  font-size:1.5em;
+  text-align:center}
+
+.td2span{
+  background-color: black;
+  color:white;
+  font-size:2.1em;
+  padding-left:200px;
+  padding-right:200px;
+  text-align:center}
+
+.td11 {
+  color:white;
+  font-size:1.1em;
+  padding-top:5px;
+  padding-bottom:4px;
+  text-align:center}
+
+.div1{
+  margin-left: 5px;
+  margin-bottom: 80px;
+  margin-top: 5px;
+  float: left;
+}
+
+.div2{
+  margin-left: 20px;
+  margin-top: 5px;
+  float: left;
+  background-color: darkslategrey;
+}
+
+.divxian{
+  background-color: gray;
+  height: 1px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.luhao{
+  font-size: 1.5em;
+  text-align: center;
+  color:white;
+}
+
+.haoma{
+  font-size: 1.5em;
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+
+.jingshi{
+  margin-top: 20px;
+  color: white;
+}
+
+.gongweijingshi{
+  color: yellow;
+}
+
+

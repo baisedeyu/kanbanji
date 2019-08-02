@@ -1,0 +1,50 @@
+.Boardhead{
+  background-color: #2d1818;
+  width: 100%;
+  height: 6%;
+  position: relative;
+}
+.HeadImge1{
+  height:100%;
+  width: auto;
+  float:left;
+  left: 4%;
+  top:20px;
+  /*bottom: 13%;*/
+  position: relative;
+  z-index: 1001;
+
+}
+.banbie1{
+  left: 12%;
+  position: absolute;
+  margin: auto;
+  top:52%;
+  font-size: 2vw;
+  color: #fefdff;
+}
+
+.Font{
+  text-align: center;
+  height: 100%;
+  width: 45%;
+  font-size: 2.5vw;
+  color: #fefdff;
+  float:left;
+  left: 29%;
+  position: absolute;
+  margin: auto;
+  top:25%;
+}
+
+.Clock{
+  height: auto;
+  width: 28%;
+  color: #fefdff;
+  font-size:1.8vw;
+  position: relative;
+  right: 4%;
+  top:54%;
+  float: right;
+  text-align: right;
+}

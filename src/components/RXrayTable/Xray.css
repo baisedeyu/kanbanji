@@ -1,0 +1,22 @@
+.tableRow{
+  color: yellow;
+  border: 1px solid grey;
+  font-size: 20px;
+  text-align: center;
+}
+
+.tableRow4{
+  color: yellow;
+  font-size: 20px;
+  text-align: center;
+  background: red;
+}
+
+.th{
+  height: 50px;
+text-align: center;
+background: black;
+width: -moz-max-content;
+color: white;
+font-size: 35px;
+}

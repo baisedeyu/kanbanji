@@ -1,0 +1,65 @@
+
+
+td{
+  text-align:center;
+  border: 1.2px solid #f7f7f7;
+}
+.sdiv1{
+  float:right;
+  position:relative;
+  top: 18%;
+  left: -5%;
+}
+.sdiv3{
+  float:right;
+  position:relative;
+  top: 18%;
+  left: -5%;
+}
+.sdiv2{
+  position:relative;
+  top: 18%;
+  left: 8%;
+}
+.ibox{
+  float: left;
+  height:100%;
+  width:50%;
+  position:relative;
+}
+.ibox2{
+  float: right;
+  height:100%;
+  width:50%;
+  position:relative;
+}
+.leftimg{
+  top:5%;
+  left: 8%;
+  float: left;
+  position:absolute;
+  width: 85%;
+  height:90%;
+}
+.leftFont{
+  float:right;
+  top: 5%;
+  right: 7%;
+  position:absolute;
+  font-size: 3vw;
+}
+.leftFont2{
+  float:left;
+  top: 5%;
+  left: 5%;
+  position:absolute;
+  font-size: 3vw;
+}
+.leftFlat{
+  float: right;
+  position:absolute;
+  bottom: 10%;
+  right: 10%;
+  color: #f7f7f7;
+  font-size: 1.3vw;
+}

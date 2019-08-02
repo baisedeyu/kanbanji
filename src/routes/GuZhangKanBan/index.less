@@ -1,0 +1,44 @@
+@import "../../../node_modules/antd/lib/style/themes/default.less";
+
+:global{
+  .bjjt{
+    .ant-list *{
+      font-size:3vw;
+      font-weight: 600;
+    }
+  }
+  .gzkb{
+    .ant-list-item{
+      padding: 3px;
+    }
+    .ant-card-body{
+      padding: 10px;
+    }
+  }
+  .leftIcon{
+    opacity: 0.9;
+    z-index: 1000;
+    box-sizing: border-box;
+    cursor: pointer;
+    top: 50%;
+    // background: #969696;
+    position: absolute;
+    // padding: 0.4rem;
+    // padding-left: 0.6rem;
+    transform: translateY(-50%);
+    // border-radius: 0.5rem;
+  }
+  .close {
+    box-sizing: border-box;
+    position: absolute;
+    top: 0.6rem;
+    right: 8rem;
+    opacity: 0.8;
+    display: flex;
+    z-index: 1000;
+    border-radius: 5rem;
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    transition: transform 0.3s cubic-bezier(0.6, 0, 0.1, 1), opacity 0.3s, -webkit-transform 0.3s cubic-bezier(0.6, 0, 0.1, 1);
+  }
+}

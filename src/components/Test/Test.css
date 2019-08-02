@@ -1,0 +1,27 @@
+.rowcolor1{
+  color: #ffff00;
+  font-size: medium;
+  text-align:center;
+}
+
+.line{
+  color:white ;
+}
+
+.rowcolor2{
+  color: #ffff00;
+  font-size: medium;
+  text-align:center;
+  background-color: #13c2c2;
+}
+
+.rowcolor3{
+  color: #ffff00;
+  font-size: medium;
+  text-align:center;
+  background-color: red;
+}
+/*td{*/
+  /*padding: 0 !important;*/
+  /*font-size: xx-large !important;*/
+/*}*/
